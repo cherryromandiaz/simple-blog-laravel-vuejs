@@ -1,4 +1,4 @@
-# Simple Blog Platform - Assignment Task
+# Simple Blog Platform
 
 
 
