@@ -1,9 +1,10 @@
 # Simple Blog Platform Using Laravel, Tailwind and Vue JS, Rest API
-![Front Page](https://i.ibb.co.com/T40nLCw/front-page.jpg) ![Admin Dashboard](https://i.ibb.co.com/J2zfRnh/admin-dashboard.jpg)
 
 ## Introduction
 
 This is a simple blog project built using Backend Rest API, Laravel Framework 11.16.0, Tailwind and Vue 3 as Front End, which is consume API. It allows users to register, log in, create, edit, delete, and view blog posts. create, delete, and view comments. as well as like and dislike posts and comments.Real time search function by title or content
+
+![Front Page](https://i.ibb.co.com/T40nLCw/front-page.jpg) ![Admin Dashboard](https://i.ibb.co.com/J2zfRnh/admin-dashboard.jpg)
 
 ## Prerequisites
 
