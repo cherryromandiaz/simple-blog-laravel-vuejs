@@ -1,6 +1,5 @@
 # Simple Blog Platform Using Laravel, Tailwind and Vue JS, Rest API
-![Front Page](https://i.ibb.co.com/T40nLCw/front-page.jpg)
-![Admin Dashboard](https://i.ibb.co.com/J2zfRnh/admin-dashboard.jpg)
+![Front Page](https://i.ibb.co.com/T40nLCw/front-page.jpg) ![Admin Dashboard](https://i.ibb.co.com/J2zfRnh/admin-dashboard.jpg)
 
 ## Introduction
 
