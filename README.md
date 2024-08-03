@@ -1,4 +1,4 @@
-# Simple Blog Platform
+# Simple Blog Platform using Backend Laravel Framework 11.16.0, Tailwind and Vue 3
 
 
 
